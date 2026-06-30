@@ -1,6 +1,6 @@
 {
   "uuid": "91005eeb-5ec2-40fa-8926-96bdb522304e",
-  "name": "IKEv2 VPN 34.151.122.43",
+  "name": "IKEv2 VPN 34.151.129.25",
   "type": "ikev2-cert",
   "remote": {
     "addr": "34.151.129.25"
